@@ -58,10 +58,10 @@ covering deposits, withdrawals, transfers, and exception handling.
 
 ---
 
-### 📈 GitHub Stats
-
-![Siddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyalapakaSiddu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IyalapakaSiddu&layout=compact&theme=radical)
+### 📊 Currently Working On
+- Preparing for SDE interviews — Data Structures & Algorithms
+- Exploring Spring Boot for backend development
+- Open to my first SDE / ASDE role
 
 ---
 
