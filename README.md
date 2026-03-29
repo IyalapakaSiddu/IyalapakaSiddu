@@ -1,7 +1,9 @@
 # Hi there, I'm Siddu 👋 
 ### GATE 2026 Qualified | Full-Stack Developer | Java & React Specialist
 
-I am a Computer Science graduate focused on building production-ready applications with a "First Principles" engineering mindset. From optimizing database schemas in PostgreSQL to implementing thread-safe logic in Java, I build for scale and reliability.
+I am a CSE graduate with hands-on experience building and deploying full-stack web applications. Proficient in React, TypeScript,
+Node.js, PostgreSQL, and Java. Built three production-ready projects covering serverless AI, REST APIs with JWT auth, and OOP
+design patterns. Quick learner who ships working software independently end-to-end.
 
 ---
 
