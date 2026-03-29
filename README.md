@@ -46,5 +46,5 @@ I am a Computer Science graduate focused on building production-ready applicatio
 
 ### 📫 Let's Connect!
 * **Portfolio:** [iyalapakasiddu.github.io](https://iyalapakasiddu.github.io)
-* **LinkedIn:** [Your LinkedIn URL Here]
+* **LinkedIn:** [www.linkedin.com/in/iyalapaka-sidhardhar-229182290]
 * **Current Goal:** Open to SDE, ASDE, and Java Backend roles in top-tier tech firms.
