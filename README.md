@@ -21,7 +21,7 @@ design patterns. Quick learner who ships working software independently end-to-e
 * **Stack:** Node.js, Express, PostgreSQL, React, JWT, Recharts.
 * **Impact:** Developed a complete financial dashboard featuring secure JWT authentication and real-time analytics for personal spending habits.
 
-#### [Bank Management System — Java Backend](https://github.com/iyalaPakaSiddu/bank-system)
+#### [Bank Management System — Java Backend](https://github.com/IyalapakaSiddu/bank-management-system)
 * **Stack:** Java 17, Apache Maven, JUnit 5.
 * **Focus:** Implemented thread-safe banking logic using OOPS, Generics, and the Stream API. 
 * **Reliability:** Integrated 8 JUnit 5 unit tests to ensure 100% coverage of core business rules.
