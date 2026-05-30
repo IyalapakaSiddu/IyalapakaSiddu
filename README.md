@@ -72,4 +72,5 @@ covering deposits, withdrawals, transfers, and exception handling.
 - 📧 **Email:** isiddusidhardhar256@gmail.com
 - 📍 **Location:** Kharagpur, West Bengal — open to remote and relocation
 
-**Currently open to:** SDE · ASDE · Java Backend · Full-Stack roles
+Currently building AI-powered full stack applications.
+Exploring LLM integration, RAG systems, and developer tooling.
